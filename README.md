@@ -4,7 +4,7 @@ Projeto construido na semana OmniStack 11 da Rockseat ( @https://github.com/Rock
 
 # Screens
 
-![screens](https://github.com/teixeira83/Omnistack-11/tree/master/assets/telas-reactjs.png)
+![screens](/assets/telas-reactjs.png)
 
 # Technologies
 
